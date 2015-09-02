@@ -170,6 +170,9 @@ function getFixtures(leagueId, matchday) {
     }
 }
 
+/*
+ * used to create an updated data.json file
+ */
 function createJsonFile() {
     //get all fixtures
     var url = APIURL + 'soccerseasons';
