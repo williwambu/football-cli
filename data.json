@@ -1,0 +1,162 @@
+[
+  {
+    "id": "524",
+    "code": "PSG",
+    "name": "Paris Saint-Germain"
+  },
+  {
+    "id": "749",
+    "code": null,
+    "name": "Malmö FF"
+  },
+  {
+    "id": "495",
+    "code": null,
+    "name": "Benfica Lissabon"
+  },
+  {
+    "id": "1056",
+    "code": null,
+    "name": "FC Astana"
+  },
+  {
+    "id": "559",
+    "code": "SEV",
+    "name": "Sevilla FC"
+  },
+  {
+    "id": "18",
+    "code": "BMG",
+    "name": "Bor. Mönchengladbach"
+  },
+  {
+    "id": "65",
+    "code": "MCFC",
+    "name": "Manchester City FC"
+  },
+  {
+    "id": "109",
+    "code": "JUVE",
+    "name": "Juventus Turin"
+  },
+  {
+    "id": "610",
+    "code": null,
+    "name": "Galatasaray SK"
+  },
+  {
+    "id": "78",
+    "code": "ATM",
+    "name": "Club Atlético de Madrid"
+  },
+  {
+    "id": "11",
+    "code": "WOB",
+    "name": "VfL Wolfsburg"
+  },
+  {
+    "id": "751",
+    "code": null,
+    "name": "CSKA Moscow"
+  },
+  {
+    "id": "674",
+    "code": null,
+    "name": "PSV Eindhoven"
+  },
+  {
+    "id": "66",
+    "code": "MUFC",
+    "name": "Manchester United FC"
+  },
+  {
+    "id": "86",
+    "code": "MAD",
+    "name": "Real Madrid CF"
+  },
+  {
+    "id": "724",
+    "code": null,
+    "name": "Shakhtar Donetsk"
+  },
+  {
+    "id": "95",
+    "code": "VAL",
+    "name": "Valencia CF"
+  },
+  {
+    "id": "731",
+    "code": null,
+    "name": "FC Zenit St. Petersburg"
+  },
+  {
+    "id": "842",
+    "code": null,
+    "name": "Dynamo Kyiv"
+  },
+  {
+    "id": "503",
+    "code": null,
+    "name": "FC Porto"
+  },
+  {
+    "id": "61",
+    "code": "CFC",
+    "name": "Chelsea FC"
+  },
+  {
+    "id": "971",
+    "code": null,
+    "name": "Maccabi Tel Aviv"
+  },
+  {
+    "id": "654",
+    "code": null,
+    "name": "Olympiacos F.C."
+  },
+  {
+    "id": "5",
+    "code": "FCB",
+    "name": "FC Bayern München"
+  },
+  {
+    "id": "755",
+    "code": null,
+    "name": "Dinamo Zagreb"
+  },
+  {
+    "id": "57",
+    "code": "AFC",
+    "name": "Arsenal FC"
+  },
+  {
+    "id": "100",
+    "code": "ROM",
+    "name": "AS Roma"
+  },
+  {
+    "id": "81",
+    "code": "FCB",
+    "name": "FC Barcelona"
+  },
+  {
+    "id": "3",
+    "code": "B04",
+    "name": "Bayer Leverkusen"
+  },
+  {
+    "id": "748",
+    "code": null,
+    "name": "FK BATE Baryssau"
+  },
+  {
+    "id": "1057",
+    "code": null,
+    "name": "KAA Gent"
+  },
+  {
+    "id": "523",
+    "code": "OLY",
+    "name": "Olympique Lyonnais"
+  }
+]

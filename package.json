@@ -1,0 +1,29 @@
+{
+    "name": "football-cli",
+    "version": "0.0.1",
+    "description": "Football data all of major leagues on the command line",
+    "main": "football.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "football-cli",
+        "football",
+        "football cli"
+    ],
+    "author": {
+        "name": "William Muli",
+        "email": "willi.wambu@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/williwambu/football-cli.git"
+    },
+    "license": "BSD-2-Clause",
+    "dependencies": {
+        "commander": "~2.8.1",
+        "cli-color": "~1.0.0",
+        "request": "~2.61.0",
+        "cli-table": "~0.3.1"
+    }
+}
