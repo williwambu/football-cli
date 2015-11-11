@@ -1,6 +1,4 @@
 #!/usr/bin/env node
-
-
 var program = require('commander');
 
 var cli = require('cli-color');
@@ -139,8 +137,6 @@ function getStandings(leagueId) {
                 }
 
                 console.log(table.toString());
-
-
             }
         });
     }
